@@ -22,7 +22,7 @@ To run this program, you need to have Go installed on your machine. You can down
     ```
 2. Navigate to the project directory:
     ```sh
-    cd mad-lib
+    cd madlibGO
     ```
 
 ## Usage
