@@ -18,7 +18,7 @@ To run this program, you need to have Go installed on your machine. You can down
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/mad-lib.git
+    git clone https://github.com/marbh56/madlibGO.git
     ```
 2. Navigate to the project directory:
     ```sh
